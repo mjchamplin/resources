@@ -15,3 +15,10 @@ Facebook's devices for mockups. Thorough and accurate.Transparent .pngs AND sket
 ## Development
 **[HTML5 Reset](https://github.com/murtaugh/HTML5-Reset)** -
 A bare-bones starter kit for an HTML5 document and a handful of useful reset styles. A little out of date (skim the `<head>` for extemporaneous js calls, etc) but still very good and very minimal.
+
+## Social Media
+**[Display Purposes](https://displaypurposes.com)** -
+"Photo Hashtags for the Modern Trollop." Enter a few hashtags, it'll help you find more hashtags that go with them. This is an annoying thing we have to do to exist as artists online.
+
+## Writing
+**[]()**
