@@ -1,13 +1,16 @@
 # Resources
 A directory of resources I find useful while making things.
+## Design
+**[Butterick's Practical Typography](https://practicaltypography.com)** -
+Fantastic resource for basic to intermediate typographical knowledge. A good resource for people non-designers who want to learn more about creating more pleasant, more readable communication.
 
 ## Stock Imagery
 **[Unsplash Source](https://source.unsplash.com)** -
 Unsplash's service for serving images from its extensive collection. You can retrieve an image from the following URL: `https://source.unsplash.com/{size}/?{keyword}` *(keyword optional).* Example:
 `https://source.unsplash.com/3000x2000/?mountain`
 
-**[Facebook Devices](http://design.facebook.com/devices)**
-Facebook's devices for mockups. Thorough and accurate.Transparent .pngs AND sketch files. [Diverse Device Hands](https://facebook.design/handskit) is also a cool resource, but the devices are 3 years out of date. 
+**[Facebook Devices](http://design.facebook.com/devices)** -
+Facebook's devices for mockups. Thorough and accurate.Transparent .pngs AND sketch files. [Diverse Device Hands](https://facebook.design/handskit) is also a cool resource, but the devices are 3 years out of date.
 
 ## Development
 **[HTML5 Reset](https://github.com/murtaugh/HTML5-Reset)** -
