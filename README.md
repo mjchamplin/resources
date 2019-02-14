@@ -7,7 +7,7 @@ Unsplash's service for serving images from its extensive collection. You can ret
 `https://source.unsplash.com/3000x2000/?mountain`
 
 **[Facebook Devices](http://design.facebook.com/devices)**
-Facebook's devices for mockups. Thorough and accurate.Transparent .pngs AND sketch files. 
+Facebook's devices for mockups. Thorough and accurate.Transparent .pngs AND sketch files. [Diverse Device Hands](https://facebook.design/handskit) is also a cool resource, but the devices are 3 years out of date. 
 
 ## Development
 **[HTML5 Reset](https://github.com/murtaugh/HTML5-Reset)** -
