@@ -1,5 +1,5 @@
 ---
-title: Main Page
+title: Resources
 ---
 
 ## Design
