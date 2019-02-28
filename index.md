@@ -1,7 +1,9 @@
 ---
 title: Resources
 ---
- 
+
+**[Music](music/) / [Professional Development](prodev)**
+
 ## Design
 **[Butterick's Practical Typography](https://practicaltypography.com)** -
 Fantastic resource for basic to intermediate typographical knowledge. A good resource for people non-designers who want to learn more about creating more pleasant, more readable communication.
