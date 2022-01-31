@@ -8,6 +8,9 @@ title: Resources
 **[Butterick's Practical Typography](https://practicaltypography.com)** -
 Fantastic resource for basic to intermediate typographical knowledge. A good resource for people non-designers who want to learn more about creating more pleasant, more readable communication.
 
+**[Awesome Ipsum](https://github.com/templeman/awesome-ipsum)** -
+The definitive list of Lorem Ipsum generators. 
+
 ## Stock Imagery
 **[Unsplash Source](https://source.unsplash.com)** -
 Unsplash's service for serving images from its extensive collection. You can retrieve an image from the following URL: `https://source.unsplash.com/{size}/?{keyword}` *(keyword optional).* Example:
@@ -25,6 +28,10 @@ A bare-bones starter kit for an HTML5 document and a handful of useful reset sty
 ## Social Media
 **[Display Purposes](https://displaypurposes.com)** -
 "Photo Hashtags for the Modern Trollop." Enter a few hashtags, it'll help you find more hashtags that go with them. This is an annoying thing we have to do to exist as artists online.
+
+## Applications
+**[Espanso](https://espanso.org/)** -
+Open-source text expander app. Installs via CL, configured using a `.yaml` file. Super simple.
 
 ## Writing
 **[]()**
